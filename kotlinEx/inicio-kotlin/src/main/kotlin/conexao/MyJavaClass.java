@@ -9,8 +9,7 @@ public class MyJavaClass {
         Integer valo01 = 50;
         Integer valo02 = 150;
         Integer total = valo01 + valo02;
-
         System.out.println(total);
-
     }
+
 }
